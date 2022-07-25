@@ -1,0 +1,34 @@
+/* 마우스 커서 기본 */
+
+html, body, .fr-popup, .fr-active div>*,
+.fr-btn-wrap, span#viewers,
+select.form-control,
+input[type=checkbox],
+input[type=radio],
+.opt {
+    cursor: url(https://upload.tgd.kr/20220726/6e7f6284c872a9663609f06326f14609.png) 0 0, auto !important;
+}
+
+
+
+/* 마우스 커서 링크 */
+
+#right-search-form>#right-search-btn,
+#board-info #board-info-bottom #addFavoriteBtn,
+#article-list #article-option-area>#article-option-area-toggle-btn,
+#article-list>.article-list-row>.item>.list-title>.list-writer>span,
+.reply > .reply-header > .reply-writer.logged,
+.reply-menu, .btn, .fr-command.fr-btn, .fr-view img,
+.pull-left, a {
+    cursor: url(https://upload.tgd.kr/20220726/e9b9f35665ff79e4ee3b912a4d36f891.png) 0 0, auto !important;
+}
+
+
+
+/* 마우스 커서 텍스트 */
+
+#article-list #boardSearchForm .form-control,
+.fr-view, .fr-box.fr-basic.fr-element,
+input[type='text'] {
+    cursor: url(https://upload.tgd.kr/20220726/e7ff7dd774332884e9d3dce7f9c640c5.png) 0 0, auto !important;
+}
