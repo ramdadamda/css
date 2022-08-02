@@ -26,7 +26,7 @@ header .row>div:nth-child(1)>a {
 
     height: 50px;
 
-    background: url() no-repeat; /* url(로고 경로 입력) */
+    background: url(https://cdn.discordapp.com/attachments/1001185943178461310/1004097634727895060/KakaoTalk_20220803_034114377.png) no-repeat; /* url(로고 경로 입력) */
 
     background-size: auto 50px;
 
